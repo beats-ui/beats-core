@@ -1,0 +1,20 @@
+{
+  "name": "beats-core",
+  "description": "",
+  "main": [
+    "build/css/beats-core.css"
+  ],
+  "authors": [
+    "ashvin.suthar777@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/beats-ui/beats-core",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

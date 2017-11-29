@@ -1,0 +1,26 @@
+{
+  "name": "beats-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": [
+    "build/css/beats-core.css"
+  ],
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beats-ui/beats-core.git"
+  },
+  "author": "ashvin.suthar777@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beats-ui/beats-core/issues"
+  },
+  "homepage": "https://github.com/beats-ui/beats-core#readme",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-sass": "2.0.4"
+  }
+}
