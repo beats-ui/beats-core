@@ -1,5 +1,6 @@
 {
   "name": "beats-core",
+  "version": "0.0.1",
   "description": "",
   "main": [
     "build/css/beats-core.css"
