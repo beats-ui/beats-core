@@ -16,12 +16,6 @@ $error: #e75146;
 $warning: darken(orange, 10%);
 $info: gray;
 
-//styles
-$shadow-white: 0px 0.5rem 15rem -0.2rem darken($color: white, $amount: 20%);
-$root-font: 100%;
-$btn-padding: 0.375rem 0.75rem;
-$border-radius: 5px;
-
 * {
   box-sizing: border-box;
 }
@@ -47,4 +41,24 @@ body {
 
 a {
   text-decoration: none;
+}
+
+.color-primary {
+  color: $primary;
+}
+
+.color-error {
+  color: $error;
+}
+
+.color-warning {
+  color: $warning;
+}
+
+.color-info {
+  color: $info;
+}
+
+.color-success {
+  color: $success;
 }
